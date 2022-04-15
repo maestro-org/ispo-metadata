@@ -1,0 +1,7 @@
+{
+    "name": "Iagon 1",
+    "description": "Iagon – the 1st decentralized cloud storage service on Cardano! In this ISPO, 70 million IAG tokens will be allocated to the delegators (at a 0.01 IAG per 1 ADA staked conversion rate). Join the ISPO now and fuel the future of this project!",
+    "ticker": "IAG1",
+    "homepage": "https://iagon.com/",
+    "extended": "https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/iagon/adapools.json"
+}
