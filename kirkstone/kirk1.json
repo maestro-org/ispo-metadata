@@ -1,0 +1,7 @@
+{
+    "name": "Kirkstone 1",
+    "description": "Our mission statement is to significantly reduce the cost of residential and vacation renting to reduce the financial barrier to real estate investment.",
+    "ticker": "KIRK1",
+    "homepage": "https://www.kirkstone.io",
+    "extended": "https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/kirkstone/cexplorer.json"
+}
