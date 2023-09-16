@@ -1,0 +1,7 @@
+{
+    "name": "Maestro 1",
+    "description": "Fund, build & scale. The developer platform for Cardano. #1 ISPO provider on Cardano. Powerful developers tools & APIs.",
+    "ticker": "MSTR1",
+    "homepage": "https://www.gomaestro.org/",
+    "extended": "https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/maestro-preprod/extended.json"
+}
