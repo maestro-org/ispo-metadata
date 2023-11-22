@@ -1,9 +1,10 @@
 {
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/metera-mtera/64x64METERA.png",
-        "location": "Mexico",
+        "location": "Mexico City, Mexico",
         "social": {
-            "twitter_handle": "MeteraProtocol"
+            "twitter_handle": "MeteraProtocol",
+            "discord_handle": "Ws5Z5ZACme"
         }
     }
 }
