@@ -1,0 +1,7 @@
+{
+    "name": "PALM token",
+    "description": "PALM token, central to Palmyra platform, recycles fees for user rebates, bridging the real world in to the crypto space. In this ISPO, we’ll be allocating 700,000,000 $PALM at 0.305 PALM per ADA staked. More details at palmtoken.net",
+    "ticker": "PALM2",
+    "homepage": "https://palmtoken.net/",
+    "extended": "https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/palm-palm2/extended.json"
+}
