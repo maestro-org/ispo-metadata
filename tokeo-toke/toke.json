@@ -1,0 +1,7 @@
+{
+  "name": "Tokeo ISPO",
+  "description": "Tokeo: Next-Gen Mobile Smart Wallet. A feature rich wallet for Cardano, safe & secure. Swap tokens, manage NFTs, send invoices, cross-chain interoperability & more. Join our ISPO for rewards-based token emissions.",
+  "ticker": "TOKE",
+  "homepage": "https://tokeopay.io/",
+  "extended": "https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/tokeo-toke/extended.json"
+}
