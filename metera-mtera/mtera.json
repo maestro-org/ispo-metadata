@@ -1,6 +1,6 @@
 {
-    "name": "MeteraProtocol ISPO",
-    "description": "The $METERA ISPO spans 42 epochs, distributing 90M tokens (9% of supply) via SSPOs. Metera's pool has a 99% fee, rewarding 0.0167 $METERA/ADA/epoch. Bonuses for long-term, large stakes, and Metera NFT staking. Post-ISPO, tokens vest over 6 months.",
+    "name": "MeteraProtocol",
+    "description": "Metera Protocol is the decentralized finance (DeFi) asset management on the Cardano blockchain, that offers users fully decentralized control over their investment strategies.",
     "ticker": "MTERA",
     "homepage": "https://metera.io/",
     "extended": "https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/metera-mtera/extended.json"
